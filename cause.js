@@ -1,22 +1,22 @@
  // Reasons database
  const reasons = [
     { 
-        text: "You’re such a kind and wonderful person, and I feel lucky to share such a good bond with you. 💖", 
+        text: "The best decision of my life... choosing YOU💖", 
         emoji: "🌟",
         gif: "gif1.gif"
     },
     { 
-        text: "May your day be filled with love, laughter, and endless joy. 🌸 ", 
+        text: "I just love being with you even if we do nothing, i litreally enjoy every single moment when i am with you🌸 ", 
         emoji: "💗",
         gif: "gif2.gif"
     },
     { 
-        text: "Wishing you success, happiness, and everything your heart desires. ✨ ", 
+        text: "There are manyyy(infinte) reasons for me to love you more and more every single time ✨ ", 
         emoji: "💕",
         gif: "gif1.gif"
     },
     { 
-        text: "Stay the amazing girl you are—always spreading positivity around. Have the happiest year ahead! 🥳 ", 
+        text: " Your eyes aren’t just eyes… they’re galaxies And somehow, I got lost willingly in them🥳 ", 
         emoji: "🌟",
         gif: "gif2.gif"
     }
